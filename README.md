@@ -2,7 +2,7 @@
 
 >_Phần mềm sử dụng để tính điểm cho sinh viên_
 
->##Hướng dẫn cài đặt
+>## Hướng dẫn cài đặt
 
 >***Tên file : DAP304x_asm1_tuyenttFX18918@funix.edu.vn\Tran_Thanh_Tuyen_grade_the_exams.ipynb***
 
@@ -12,7 +12,7 @@
 
 >_Phần mềm gồm 4 task chính, mỗi task có 1 nhiệm vụ riêng biệt_
 
->###Task 1
+>### Task 1
 
 >•	Người dùng giải nén file: DAP304x_asm1_tuyenttFX18918@funix.edu.vn.RAR
 
@@ -28,7 +28,7 @@
 
 >•	Nếu có bất kỳ ngoại lệ nào trong quá trình mở file thì ứng dụng cũng sẽ gửi thông báo theo tên của ngoại lệ tới người dùng.
 
->###Task 2	
+>### Task 2	
 
 >•	Kiểm tra dữ liệu theo từng dòng tương ứng với từng học sinh thuộc từng lớp có đúng với định dạng quy định hay không.
 
@@ -44,7 +44,7 @@
 
 >•	Thống kê số dòng hợp lệ hoặc không hợp lệ và gửi báo cáo.
 
->###Task 3	
+>### Task 3	
 
 >•	Tính điểm theo từng học sinh
 
@@ -54,7 +54,7 @@
 
 >•	Ứng dụng sẽ gửi báo cáo thông kê một số thông tin như: Số lượng học sinh điểm cao nhất, điểm trung bình, điểm cao nhất, thấp nhất, range…. theo từng lớp.
 
->###Task 4
+>### Task 4
 
 >•	Task 4 sẽ bao gồm chức năng đầy đủ của phần mềm hoàn chỉnh được tổng hợp lại từ 3 task trên và bổ sung thêm chức năng lưu kết quả chấm bài của học sinh vào file lưu trữ.
 
